@@ -1,0 +1,26 @@
+Timing results:
+
+	Setup Timing:
+	
+	Worst Negative Slack (WNS): inf
+	Total Negative Slack (TNS): 0.000 ns
+	Number of Failing Endpoints: 0
+	Total Number of Endpoints: 12,268
+	
+	Hold Timing:
+		
+	Worst Hold Slack (WHS): inf
+	Total Hold Slack (THS): 0.000 ns
+	Number of Failing Endpoints: 0
+	Total Number of Endpoints: 12,268
+	
+	Pulse Width:
+	
+	Worst Pulse Width Slack (WPWS): NA
+	Total Pulse Width Negative Slack (TPWS): NA
+	Number of Failing Endpoints: NA
+	Total Number of Endpoints: NA
+	
+	Timing Constraints:
+		
+	The design does not include user-specified timing constraints.

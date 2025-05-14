@@ -1,0 +1,51 @@
+Utilization results:
+
+	Slice Logic Utilization:
+	
+	Slice LUTs:
+	Used: 10,618
+	Available: 41,000
+	Utilization: 25.90%
+	LUT as Logic:
+	Used: 9,338
+	Utilization: 22.78%
+	LUT as Memory:
+	Used: 1,280
+	Utilization: 9.55%
+	Slice Registers:
+	Used: 8,381
+	Available: 82,000
+	Utilization: 10.22%
+	F7 Muxes:
+	Used: 2,614
+	Available: 20,500
+	Utilization: 12.75%
+	F8 Muxes:
+	Used: 1,307
+	Available: 10,250
+	Utilization: 12.75%
+	Memory Utilization:
+	
+	Block RAM Tiles:
+	Used: 68
+	Available: 135
+	Utilization: 50.37%
+	DSP Utilization:
+	
+	DSPs:
+	Used: 0
+	Available: 240
+	Utilization: 0.00%
+	I/O Utilization:
+	
+	Bonded IOBs:
+	Used: 760
+	Available: 300
+	Utilization: 253.33% (overutilized).
+	Clocking Resources:
+	
+	BUFGCTRL:	
+	Used: 2
+	Available: 32
+	Utilization: 6.25% 
+

@@ -1,0 +1,25 @@
+Power results:
+
+	Total On-Chip Power:
+	
+	330.559 W (Junction temperature exceeded safe limits).
+	Power Breakdown:
+	
+	Dynamic Power: 329.453 W (99%).
+	Signals: 161.794 W (49%).
+	Logic: 146.359 W (44%).
+	BRAM: 17.246 W (5%).
+	I/O: 4.054 W (2%).
+	Static Power: 1.106 W (1%).
+	Junction Temperature:
+	
+	125°C (Exceeded safe operating limits).
+	Thermal Margin:
+	
+	-562.5°C (297.9 W over the thermal budget).
+	Ambient Temperature:
+	
+	25°C.
+	Confidence Level:
+	
+	Low (Simulation results based on constraints and estimates).
